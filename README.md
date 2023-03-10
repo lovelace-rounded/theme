@@ -45,7 +45,7 @@ Clone this repository in your existing (or create it) themes/ folder.
 
 ```sh
 cd themes/
-git clone https://github.com/lovelace-rounded/themes
+git clone https://github.com/lovelace-rounded/theme
 ```
 
 # Credits
