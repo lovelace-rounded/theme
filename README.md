@@ -32,6 +32,10 @@ frontend:
 
 ### HACS
 
+
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=lovelace-rounded&repository=theme&category=theme)
+
 **Rounded Themes** is available in [HACS][hacs] (Home Assistant Community Store).
 
 1. Open HACS
@@ -51,6 +55,7 @@ git clone https://github.com/lovelace-rounded/theme
 # Credits
 
 [Piitaya](https://github.com/piitaya)
+[LE0N](https://community.home-assistant.io/u/le0n/summary)
 
 <!-- Badges -->
 
