@@ -9,7 +9,7 @@
 
 Rounded theme allow you to customize your Rounded dashboard using [Home Assistant][home-assistant] themes.
 
-![Overview](tbd)
+![Overview](./docs/preview.png)
 
 ## Usage
 
